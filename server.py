@@ -16,7 +16,7 @@ db_config = {
 
 def send_email(to_email, username):
     sender_email = "md2004y@gmail.com"
-    sender_password = "xtyhppkjjnydtbfr"
+    sender_password = "----------------"
 
     subject = "Registration Successful"
     body = f"Hello {username},\n\nYour registration was successful!"
